@@ -141,7 +141,7 @@ button {
     background: #1877f2;
     color: white;
     border: none;
-    border-radius: 6px;
+    border-radius: 9px;
     cursor: pointer;
     transition: all 0.2s;
     display: flex;
